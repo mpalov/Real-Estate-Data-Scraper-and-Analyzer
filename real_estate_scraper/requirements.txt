@@ -1,0 +1,6 @@
+httpx
+selectolax
+pandas
+matplotlib
+re
+pathlib
