@@ -43,9 +43,6 @@ The script generates two types of bar graphs:
 - Average Price per Square Foot Graph: Shows the average price per square foot for each city.
 - These graphs are displayed using Matplotlib.
 
-## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](Real-Estate-Data-Scraper-and-Analyzer/LICENSE) file for details.
 
